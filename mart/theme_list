@@ -1,2 +1,9 @@
 {
+  "list":[
+    {
+      "_id": 1,
+      "title": "Test theme",
+      "author": "KamiSempai"
+    }
+  ]
 }
